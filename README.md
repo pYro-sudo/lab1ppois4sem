@@ -33,7 +33,7 @@ Children's education & upbringing
 
 [1]: https://github.com/pYro-sudo/lab1ppois4sem/tree/main/ppois1labsem4/src/main/java/by/losik/lab1
 
-##About
+## About
 
 - ```App.java``` is used for launching the application.
 - ```Child.java``` represents a child entity.
